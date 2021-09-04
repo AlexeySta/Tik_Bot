@@ -89,4 +89,4 @@ async def IT(ctx):
 	embed = discord.Embed(color = 0x85ceff, title="Ну на, не жалко", description="```text```")
 	await ctx.send(embed = embed)
 
-bot.run("ODExOTk0Nzc5NTU0MjgzNTIw.YC6TEQ.34CGZCU8Cs8dXwmm2FLL_wMGlHQ")
+bot.run("token")
